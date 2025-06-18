@@ -16,9 +16,7 @@ Free responsive Blogger template Guitar chords and song lyrics
 
 ## License
 Free to use with footer credit link intact.
-----------
 
 ## Themes premium version ztnmusic v3.5.0
 [Demo](https://demo-v350-ztnmusic.blogspot.com)
-
 [Buy Now](https://www.ztncode.my.id/2021/08/template-blogger-chord-gitar-ztn-music.html)
